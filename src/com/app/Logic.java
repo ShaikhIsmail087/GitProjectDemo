@@ -8,7 +8,8 @@ public class Logic {
 			System.out.println("eat somthing...");
 		else
 			System.out.println("do work...");
-
+		for(int i=1;i<11;i++)
+			System.out.println("do work..."+i);
 	}
 
 }
